@@ -4,7 +4,6 @@
 */
 #include<iostream>
 #include<cmath>
-#include<iomanip>
 #include "AnalogIn.h"
 
 using namespace std;
